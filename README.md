@@ -12,7 +12,6 @@ This repository contains the analysis and predictive model for the Salifort Moto
 6. [Actionable Recommendations](#key-predictive-features)
 7. [Project Files](#project-files)
 8. [Tools and Libraries](#tools-and-libraries)
-9. [Contact](#contact)
 
 
 
@@ -31,7 +30,7 @@ The dataset is a CSV file containing 15,000 records and 10 columns of anonymized
 - `number_project`
 - `average_montly_hours`
 - `time_spend_company` (tenure)
-- `left (the target` variable)
+- `left` (the target variable)
 
 
 
